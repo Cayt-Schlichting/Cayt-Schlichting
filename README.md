@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Cayt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cayt-schlichting&layout=compact&theme=nightowl&count_private=true)](https://github.com/cayt-schlichting/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayt-schlichting&layout=compact&theme=nightowl&count_private=true)](https://github.com/cayt-schlichting/github-readme-stats)
