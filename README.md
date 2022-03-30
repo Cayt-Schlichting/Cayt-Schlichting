@@ -1,4 +1,8 @@
-### Hi there 👋, I'm new to GitHub and my profile is a work in progress :smirk:
+### *About Me*
+<details>
+  <summary><i>Click to expand</i></summary>
+  Made you look!  More about me coming soon.
+</details
 
 <!-- LinkedIn Badge when I'm ready to add it.
 [![Linkedin Badge](https://img.shields.io/badge/-Cayt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cayt/)](https://www.linkedin.com/in/cayt/)
@@ -18,10 +22,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### *Connect or message me on [Linkedin](https://www.linkedin.com/in/cayt/)*
+  <!--Might want to mix this up later in order to have a Linkedin and Tableau Public profile -->
 ### *Tools I'm working with*
-<img src="https://img.shields.io/badge/Python-306998?&style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/GitHub-333333?&style=for-the-badge&logo=github&logoColor=f5f5f5"/> <img src="https://img.shields.io/badge/MySQL-00758F?&style=for-the-badge&logo=mysql&logoColor=F29111"/> <img src="https://img.shields.io/badge/pandas-130654?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-4d77cf?&style=for-the-badge&logo=numpy&logoColor=4daacf" /> <img src="https://img.shields.io/badge/Jupyter-4e4e4e?&style=for-the-badge&logo=Jupyter&logoColor=f37626" />
-
-
+<img src="https://img.shields.io/badge/Python-306998?&style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/GitHub-333333?&style=for-the-badge&logo=github&logoColor=f5f5f5"/> <img src="https://img.shields.io/badge/MySQL-00758F?&style=for-the-badge&logo=mysql&logoColor=F29111"/>  <img src="https://img.shields.io/badge/Jupyter-4e4e4e?&style=for-the-badge&logo=Jupyter&logoColor=f37626" />
+  <img src="https://img.shields.io/badge/Tableau-18417e?&style=for-the-badge&logo=tableau&logoColor=white" />
+  
+  Libraries:  
+    <img src="https://img.shields.io/badge/pandas-130654?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-4d77cf?&style=for-the-badge&logo=numpy&logoColor=4daacf" />
+  
+---
 [![Cayt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cayt-schlichting&layout=compact&theme=nightowl&count_private=true)](https://github.com/cayt-schlichting/github-readme-stats)
 
 <!-- Put the Badges in instead, look at including this at a later date
