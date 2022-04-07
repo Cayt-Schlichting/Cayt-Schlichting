@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 <!-- Note, I need to find the appropriate matplotlib logo -->
 ---
 [![Cayt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cayt-schlichting&layout=compact&theme=nightowl&count_private=true)](https://github.com/cayt-schlichting/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=cayt-schlichting&style=plastic)
-<!-- Put the Badges in instead, look at including this at a later date
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cayt-schlichting&layout=compact&theme=nightowl&count_private=true)](https://github.com/cayt-schlichting/github-readme-stats)
--->
+  
+![](https://komarev.com/ghpvc/?username=cayt-schlichting&style=plastic)
+
+
+
