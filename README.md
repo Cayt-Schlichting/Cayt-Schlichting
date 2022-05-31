@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### *Connect or message me on [Linkedin](https://www.linkedin.com/in/cayt?target=_blank)*
+### *Connect or message me on <a href="https://www.linkedin.com/in/cayt" target="_blank">Linkedin</a>*
   <!--Might want to mix this up later in order to have a Linkedin and Tableau Public profile -->
 ### *Tools I'm working with*
 <img src="https://img.shields.io/badge/Python-306998?&style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/GitHub-333333?&style=for-the-badge&logo=github&logoColor=f5f5f5"/> <img src="https://img.shields.io/badge/MySQL-00758F?&style=for-the-badge&logo=mysql&logoColor=F29111"/>  <img src="https://img.shields.io/badge/Jupyter-4e4e4e?&style=for-the-badge&logo=Jupyter&logoColor=f37626" />
