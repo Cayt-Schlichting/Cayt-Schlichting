@@ -5,7 +5,7 @@
 </details
 
 <!-- LinkedIn Badge when I'm ready to add it.
-[![Linkedin Badge](https://img.shields.io/badge/-Cayt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cayt/)](https://www.linkedin.com/in/cayt/)
+[![Linkedin Badge](https://img.shields.io/badge/-Cayt-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cayt/?target=_blank)](https://www.linkedin.com/in/cayt/?target=_blank)
 -->
 <!--
 **Cayt-Schlichting/Cayt-Schlichting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
