@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tableau-18417e?&style=for-the-badge&logo=tableau&logoColor=white" />
   
   Libraries:  
-    <img src="https://img.shields.io/badge/pandas-130654?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-4d77cf?&style=for-the-badge&logo=numpy&logoColor=4daacf" /> <img src="https://img.shields.io/badge/matplotlib-11557c?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/seaborn-444876?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/pandas-130654?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-4d77cf?&style=for-the-badge&logo=numpy&logoColor=4daacf" /> <img src="https://img.shields.io/badge/matplotlib-11557c?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/seaborn-444876?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/sklearn-f7931e?&style=for-the-badge&logo=scikit-learn&logoColor=black" />
 <!-- Note, I need to find the appropriate matplotlib logo -->
 ---
 [![Cayt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cayt-schlichting&layout=compact&theme=nightowl&count_private=true)](https://github.com/cayt-schlichting/github-readme-stats)
